@@ -107,15 +107,19 @@ For details on the cleaning and the conditioning that all this data went through
 With all the cleaning and conditioning done I ended up with the following three DataFrames:
 
 ![Figure_2](img/Figure_2.png)
+
 <b>Figure_2</b>: Game Result DataFrame with engineered "Game_Result" column which will be the Target for the Models
 
 ![Figure_3](img/Figure_3.png)
+
 <b>Figure_3</b>: Average Generic Monthly Stats per team
 
 ![Figure_4](img/Figure_4.png)
+
 <b>Figure_4</b>: Average Advanced Monthly Stats per team
 
 ![Figure_5](img/Figure_5.png)
+
 <b>Figure_5</b>: Final DataFrame with "Game_Result" and monthly Average Generic and Advanced Stats assigned per team for Team1 and Team2. This is the Ready to Model DataFrame 
 
 Figure 5 was the input for the 10 year models, but on top of these DataFrames, secondary ones were created for 2010-2020 and 2018-2019, plus, 30 smaller ones, one for each team were also created but only for the 10 seasons (2010-2020). So quite a bit of data when you think about it.
