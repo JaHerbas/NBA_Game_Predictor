@@ -1,4 +1,4 @@
-<b><font size="6"> NBA Game Predictor using ML Classifiers</font></b>
+# NBA Game Predictor using ML Classifiers
 
 ![Figure_1](img/Figure_1.png)
 
